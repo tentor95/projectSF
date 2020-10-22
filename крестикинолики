@@ -1,4 +1,4 @@
-board=list(range(1, 10))
+board=list(range(0, 9))
 #Приветствие
 def instruction():
     print("Добро пожаловать в игру Крестики-нолики!!!")
